@@ -18,3 +18,5 @@ This repository is being used to save my work for the Udacity Azure lab outside 
 - OS: Ubuntu 24.04
 - Status: Running
 - Public IP: 20.83.250.106
+TOP ERROR
+Region is not available for Bastion deployments with the selected availability zones. Please modify your deployment to not use zones or use a different region. (Code: BastionRegionAzCapacityUnavailable)
