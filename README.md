@@ -13,3 +13,8 @@ This repository is being used to save my work for the Udacity Azure lab outside 
 - Azure lab relaunched / pending relaunch
 - VM setup will be recreated
 - Flask app files and lab steps will be added here as I complete them
+- New lab VM created successfully
+- Resource group: hello-world-rg
+- OS: Ubuntu 24.04
+- Status: Running
+- Public IP: 20.83.250.106
